@@ -1,16 +1,21 @@
-## Hi there 👋
+# BITIRP - Efficient Time Intervals-Related Pattern Mining
+## Introduction
 
-<!--
-**BITIRP/BITIRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Repository Contents
+The contents of this repository are as follows:
+- The implementation of the **BITIRP** algorithm, implemented in C#.
+- All the time intervals datasets on which the method performance has been evaluated in the paper.
 
-Here are some ideas to get you started:
+## Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Datasets
+
+## Dependencies
+- Visual Studio 2022
+- .NET 6.0 (LTS) Framework
+
+## Running Instructions
+1. Download the repository and install the dependencies.
+2. Open the algorithm's project in Visual Studio.
+3. Set the algorithm's execution parameters within the `Program.cs` file to the desired values (the set of values used in the paper are supplied).
+4. Run.
